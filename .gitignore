@@ -1,0 +1,10 @@
+batch_image_processor
+build/
+output/
+data/*
+!data/smoke/
+!data/smoke/*.pgm
+*.exe
+*.obj
+*.o
+__pycache__/
